@@ -1,0 +1,8 @@
+{
+    "proxy": "p.webshare.io",
+    "port": "80",
+    "user": "",
+    "passw": "",
+    "thread": 2,
+    "url": "https://www.dextools.io/app/en/ether/pair-explorer/0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5"
+}

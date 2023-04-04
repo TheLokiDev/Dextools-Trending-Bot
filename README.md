@@ -80,3 +80,4 @@ To Get Official announcements or Updates Join here : [Telegram Channel](https://
 ![Buy/Sell Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/3.png)
 ![Buy/Sell Bot instructions](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/4.png)
 ![Buy/Sell Bot Config Setup](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/5.png)
+![Buy/Sell Bot Proof](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/Buysell%20bot.png)

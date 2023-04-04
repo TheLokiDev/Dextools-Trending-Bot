@@ -13,7 +13,11 @@ A Dextool Trending bot which makes a Token Trending on Dextools with BUY/SELL Sn
   <a href="#Youtube">Youtube</a>
   •
   <a href="#Contact">Contact</a>
+  •
+  <a href="#Images">Images</a>
 </p>
+
+<p align="center"><a href="https://youtu.be/1rZJn9-qRLs" target="_blank"><img src="https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/Dextools%20Trending%20Bot.png?raw=true"></a></p>
 
 ## About
 A Dextool Trending bot which makes a Token Trending on Dextools with BUY/SELL Sniper Bot using Python Software.
@@ -69,3 +73,10 @@ For any kind of further assistant kindly DM me on Telegram.
 Telegram : [@TheLokiDev](https://t.me/TheLokiDev)
 
 To Get Official announcements or Updates Join here : [Telegram Channel](https://t.me/TheLokiDev_Channel)
+
+## Images
+![Dextools Trending Bot](https://github.com/TheLokiDev/Telegram-spammer/blob/main/1.png)
+![Dextools Trending Config File](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/2.png)
+![Buy/Sell Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/3.png)
+![Buy/Sell Bot instructions](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/4.png)
+![Buy/Sell Bot Config Setup](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/5.png)

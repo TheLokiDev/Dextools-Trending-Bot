@@ -77,7 +77,4 @@ To Get Official announcements or Updates Join here : [Telegram Channel](https://
 ## Images
 ![Dextools Trending Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/1.png)
 ![Dextools Trending Config File](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/2.png)
-![Buy/Sell Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/3.png)
-![Buy/Sell Bot Instrusctions](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/4.png)
-![Buy/Sell Bot Setup](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/5.png)
 ![Dextools Trending Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/Buysell%20bot.png)

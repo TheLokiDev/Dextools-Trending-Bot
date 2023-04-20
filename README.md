@@ -24,7 +24,7 @@ A Dextool Trending bot which makes a Token Trending on Dextools with BUY/SELL Sn
 
 If you are interested, go through here. <a href="#Contact">Contact</a>
 
-also make sure to read this file : ![Read this(https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/READ%20THIS.docx)
+also make sure to read this file : ![Read this](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/READ%20THIS.docx)
 
 ## Features
 - Search for your token ✓
